@@ -24,5 +24,5 @@ git clone https://github.com/mchome/luci-app-vlmcsd.git ./package/luci-app-vlmcs
 git clone https://github.com/kuoruan/openwrt-v2ray.git ./package/openwrt-v2ray
 git clone https://github.com/kuoruan/luci-app-v2ray.git ./package/luci-app-v2ray
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git ./package/luci-app-adguardhome
-./scripts/feeds update -a
-./scripts/feeds install -a
+#./scripts/feeds update -a
+#./scripts/feeds install -a
